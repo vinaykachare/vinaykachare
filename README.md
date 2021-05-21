@@ -5,9 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-vinaykachare-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vinaykachare/)](https://instagram.com/vinaykachare)
 [![Gmail Badge](https://img.shields.io/badge/-vinaykachare-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vinaykachare@gmail.com)](mailto:vinaykachare@gmail.com)
 
-Who am I? 
+<b> Who am I? </b>
 - :snake: Python Developer
 - :fox_face: Algo Trader
+- :books: avid Reader
+- :blue_heart: Passionate to the Core
+- :see_no_evil: Jack of All Trades
+
 <!--
 **vinaykachare/vinaykachare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
