@@ -1,10 +1,13 @@
-### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vinaykachare)](https://medium.com/@vinaykachare)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KachareVinay)](https://twitter.com/KachareVinay)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vinaykachare/)](https://instagram.com/vinaykachare)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:vinaykachare@gmail.com)
+### Hello there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-vinaykachare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinaykachare/)](https://www.linkedin.com/in/vinaykachare/)
+[![Medium Badge](https://img.shields.io/badge/-vinaykachare-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vinaykachare)](https://medium.com/@vinaykachare)
+[![Twitter Badge](https://img.shields.io/badge/-KachareVinay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KachareVinay)](https://twitter.com/KachareVinay)
+[![Instagram Badge](https://img.shields.io/badge/-vinaykachare-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vinaykachare/)](https://instagram.com/vinaykachare)
+[![Gmail Badge](https://img.shields.io/badge/-vinaykachare-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vinaykachare@gmail.com)](mailto:vinaykachare@gmail.com)
 
+Who am I? 
+- :snake: Python Developer
+- :fox_face: Algo Trader
 <!--
 **vinaykachare/vinaykachare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
