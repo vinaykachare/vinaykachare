@@ -1,3 +1,9 @@
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<!-- in your body -->
+
+
 ### Hello there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-vinaykachare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinaykachare/)](https://www.linkedin.com/in/vinaykachare/)
 [![Medium Badge](https://img.shields.io/badge/-vinaykachare-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vinaykachare)](https://medium.com/@vinaykachare)
@@ -18,11 +24,25 @@
 - :see_no_evil: Jack of All Trades
 
 <b>Tech Stack? 🧑‍💻 </b>
-- 🐍 Python (FastAPI, Django)
--  Go
-- ☁️ AWS
-- Serverless (AWS SAM, CloudFormation)
-- Databases (Postgres, MySQL, MSSQL)
+<p align="left">
+  
+</p>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaykachare&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vinay's github stats" />
+</a>
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykachare&layout=compact&theme=material-palenight" />
+</a>
+
+  
+<a href="https://github.com/vinaykachare/ZerodhaRequestToken">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykachare&repo=ZerodhaRequestToken&theme=material-palenight" />
+</a>
+
+
+
 
 <!--
 **vinaykachare/vinaykachare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
