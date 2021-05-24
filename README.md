@@ -41,6 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinaykachare&repo=ZerodhaRequestToken&theme=material-palenight" />
 </a>
 
+<br />
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinaykachare/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinaykachare/0" alt="Recent Article 0"> 
 
 
 
