@@ -15,7 +15,7 @@
 - :snake: Python Developer
 - :fox_face: Algo Trader
 - :unicorn: Startup Enthusiast
-- :books: avid Reader
+- :books: Avid Reader
 - :blue_heart: Passionate to the Core
 
 <b> More ? 😛</b>
